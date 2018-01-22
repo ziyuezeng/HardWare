@@ -44,6 +44,11 @@
              (++) SYSCFG_GetBootMode()  
              (++) SYSCFG_USBPuCmd()
              (++) SYSCFG_EXTILineConfig()
+             
+             
+             
+             
+             111
 @endverbatim
   *
   ******************************************************************************
